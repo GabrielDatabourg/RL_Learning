@@ -8,7 +8,4 @@ The completes environment ( position of bananas, distance from bananas...) is no
 -> Picture of the environment.
 Thus for an agent A that take an action each time step t at the environment provide some continous states St.
 
-### Algorithms
-We tried several algorithm derived from the popular DQN algorithm to solve a state of the art environmenent provided by Unity to train smart Agents. 
-
-### Results
+### Results of the algorithms
