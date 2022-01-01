@@ -4,6 +4,7 @@
 
 Pull this Git:
 ```
+git clone https://github.com/GabrielLinear/RL_Learning.git
 ```
 Set-up your environment like this [GitHub Pages](https://github.com/udacity/Value-based-methods#dependencies).
 Then try to activate and use the enrivonment with an agent taking random action as :
