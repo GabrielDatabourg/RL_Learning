@@ -2,7 +2,7 @@
 
 ### Set-up the environments
 
-Pull this Git:
+Clone this Git:
 ```
 git clone https://github.com/GabrielLinear/RL_Learning.git
 ```
