@@ -25,3 +25,5 @@ The completes environment ( position of bananas, distance from bananas...) is no
 Thus for an agent A that take an action each time step t at the environment provide some continous states St.
 
 ### Results of the algorithms
+
+![This is an image](https://github.com/GabrielLinear/RL_Learning/blob/main/Images/Scores_Banana.png)
