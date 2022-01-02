@@ -20,8 +20,9 @@ python3 Double_DQN.py # To train with the Double DQN algorithm
 ```
 
 ### Environment
-Banana environement is a state of the art environmenent provided by Unity to train smart Agents. The goal for the single player is to navigate in the environment to collect yellow banana and avoid blue one. Each yellow banana collected return a postive feedback (a reward) that increase our final score.
-The completes environment ( position of bananas, distance from bananas...) is not initially expicitely provided. So our smart agent have to guess from the observations that the environment return for each action carried out.
+Banana environement is a state of the art environmenent provided by Unity to train smart Agents. The goal for the single player is to navigate in the environment to collect yellow banana and avoid blue one. Each yellow banana collected return a postive feedback (a reward) that increase our final score. A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
+
+The complete environment ( position of bananas, distance from bananas...) is not initially expicitely provided. So our smart agent have to guess from the observations that the environment return for each action carried out.
 
 <p align="center">
   <img src="https://github.com/GabrielLinear/RL_Learning/blob/main/Images/Image.gif" />
