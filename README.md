@@ -1,30 +1,36 @@
 # Deep Reinforcment Learning case study : Unity Banana environment with DQN
 
 ### Set-up the environments
-
 Clone this Git:
 ```
 git clone https://github.com/GabrielLinear/RL_Learning.git
 ```
 Set-up your environment like this [GitHub Pages](https://github.com/udacity/Value-based-methods#dependencies).
-Then try to activate and use the enrivonment with an agent taking random action as :
+Previous to the operation ***pip install .*** , you will have to install torch 0.4 then uninstall it and install the torch version you want.
 
-If you want to learn agent with the algorithms do :
+Then, when you have set-up the environement you can use the trained agent you want like this :
 ```
 ```
 
-If you want to use the pre-trained algorithms for testing do :
+You can re-train the agent with the different algorithms available like this :
 ```
+python3 DQN.py # To train with the DQN algorithm
+python3 Dueling_DQN.py # To train with the Dueling DQN algorithm
+python3 Double_DQN.py # To train with the Double DQN algorithm
 ```
 
 ### Environment
 Banana environement is a state of the art environmenent provided by Unity to train smart Agents. The goal for the single player is to navigate in the environment to collect yellow banana and avoid blue one. Each yellow banana collected return a postive feedback (a reward) that increase our final score.
 The completes environment ( position of bananas, distance from bananas...) is not initially expicitely provided. So our smart agent have to guess from the observations that the environment return for each action carried out.
 
-![This is an image](https://github.com/GabrielLinear/RL_Learning/blob/main/Images/Image.gif)
-
-Thus for an agent A that take an action each time step t at the environment provide some continous states St.
+<p align="center">
+  <img src="https://github.com/GabrielLinear/RL_Learning/blob/main/Images/Image.gif" />
+</p>
 
 ### Results of the algorithms
 
+Scores with the 
+
 ![This is an image](https://github.com/GabrielLinear/RL_Learning/blob/main/Images/Scores_Banana.png)
+
+For more information you can check the [report](https://github.com/GabrielLinear/). 
