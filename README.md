@@ -8,7 +8,7 @@ git clone https://github.com/GabrielLinear/RL_Learning.git
 Set-up your environment like this [GitHub Pages](https://github.com/udacity/Value-based-methods#dependencies).
 Previous to the operation ***pip install .*** , you will have to install torch 0.4 then uninstall it and install the torch version you want.
 
-Then, when you have set-up the environement you can use the trained agent you want like this :
+Then, once you have set-up the environement you can use the trained agent you want like this :
 ```
 ```
 
