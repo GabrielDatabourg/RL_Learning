@@ -33,4 +33,4 @@ The complete environment ( position of bananas, distance from bananas...) is not
 
 ![This is an image](https://github.com/GabrielLinear/RL_Learning/blob/main/Images/Scores_Banana.png)
 
-For more information you can check the [report](https://github.com/GabrielLinear/RL_Learning/Report.pdf). 
+For more information you can check the [report](https://github.com/GabrielLinear/RL_Learning/blob/main/Report.pdf). 
