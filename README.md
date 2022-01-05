@@ -31,8 +31,6 @@ The complete environment ( position of bananas, distance from bananas...) is not
 
 ### Results of the algorithms
 
-Scores with the 
-
 ![This is an image](https://github.com/GabrielLinear/RL_Learning/blob/main/Images/Scores_Banana.png)
 
-For more information you can check the [report](https://github.com/GabrielLinear/). 
+For more information you can check the [report](https://github.com/GabrielLinear/RL_Learning/report.pdf). 
