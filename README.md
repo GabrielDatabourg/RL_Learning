@@ -10,7 +10,7 @@ Previous to the operation ***pip install .*** , you will have to install torch 0
 
 Then, once you have set-up the environement you can use the trained agent you want like the code bellow. Then you will have the choices between the 3 algorithms implemented.
 ```
-python3 Model_use.py
+python3 Model_Use.py
 ```
 
 You can re-train the agent with the different algorithms available like this :
