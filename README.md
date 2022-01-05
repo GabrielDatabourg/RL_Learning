@@ -8,8 +8,9 @@ git clone https://github.com/GabrielLinear/RL_Learning.git
 Set-up your environment like this [GitHub Pages](https://github.com/udacity/Value-based-methods#dependencies).
 Previous to the operation ***pip install .*** , you will have to install torch 0.4 then uninstall it and install the torch version you want.
 
-Then, once you have set-up the environement you can use the trained agent you want like this :
+Then, once you have set-up the environement you can use the trained agent you want like the code bellow. Then you will have the choices between the 3 algorithms implemented.
 ```
+python3 Model_use.py
 ```
 
 You can re-train the agent with the different algorithms available like this :
